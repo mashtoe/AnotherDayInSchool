@@ -1,10 +1,4 @@
 
-Temp/__Backupscenes/0.backup
-Temp/UnityLockfile
-Library/shadercompiler-UnityShaderCompiler.exe0.log
-Library/shadercompiler-UnityShaderCompiler.exe0.log
-
-
 # Created by https://www.gitignore.io/api/unity,visualstudio
 
 ### Unity ###
@@ -14,6 +8,13 @@ Library/shadercompiler-UnityShaderCompiler.exe0.log
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+
+Temp/__Backupscenes/0.backup
+Temp/UnityLockfile
+Library/shadercompiler-UnityShaderCompiler.exe0.log
+Library/shadercompiler-UnityShaderCompiler.exe0.log
+
+
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -335,3 +336,4 @@ __pycache__/
 
 
 # End of https://www.gitignore.io/api/unity,visualstudio
+
